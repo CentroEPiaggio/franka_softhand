@@ -1,0 +1,5 @@
+Franka_softhand:
+	☐ create control pkg (modify franka_softhand_control)
+	✔ create xacro franka and softhand(from plugin) @done (5/8/2023, 6:42:48 PM)
+	✔ create launch file for description @done (5/9/2023, 11:11:57 PM)
+	☐ make independent from custom control

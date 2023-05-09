@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+	<name>franka_softhand_description</name>
+	<version>1.0.0</version>
+	<description>The franka_softhand_description package</description>
+
+	<author email="giorgio.simonini@phd.unipi.it">Giorgio Simonini</author>
+	<maintainer email="giorgio.simonini@phd.unipi.it">Giorgio Simonini</maintainer>
+
+	<license>BSD</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<build_depend>franka_description</build_depend>
+	<build_depend>softhand_plugin</build_depend>
+	<build_depend>softhands_description</build_depend>
+
+	<run_depend>franka_description</run_depend>
+	<run_depend>softhand_plugin</run_depend>
+	<run_depend>softhands_description</run_depend>
+
+	<export>
+	</export>
+</package>
